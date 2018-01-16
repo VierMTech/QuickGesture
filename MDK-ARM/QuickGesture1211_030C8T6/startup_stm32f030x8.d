@@ -1,0 +1,1 @@
+quickgesture1211_030c8t6\startup_stm32f030x8.o: startup_stm32f030x8.s
